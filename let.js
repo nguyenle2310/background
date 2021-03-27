@@ -15,4 +15,4 @@ printName();
 
 let name ='gwen';
 let name ='le';
-console.log(fullname)
+console.log(name)
