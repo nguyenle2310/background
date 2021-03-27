@@ -13,7 +13,6 @@ printName();
 // }
 // console.log(fullName);
 
-//Change
 let name ='gwen';
 let name ='le';
-console.log(name)
+console.log(name1)
